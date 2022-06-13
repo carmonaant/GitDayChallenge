@@ -1,1 +1,2 @@
 # GitDayChallenge
+Algunos cambios añadidos.
